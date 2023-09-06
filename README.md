@@ -1,0 +1,1 @@
+# JavaScript-task-2-consol.log
